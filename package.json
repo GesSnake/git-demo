@@ -1,0 +1,11 @@
+{
+  "name": "git-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GesSnake/git-demo.git",
+  "author": "wjp <1091268603@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
